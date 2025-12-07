@@ -2,7 +2,7 @@
 
 **A scalar-value autograd engine built from scratch.**
 
-Juniors use PyTorch. Seniors know how to build PyTorch.
+Built without PyTorch, TensorFlow, or any autograd library. Just NumPy and math.
 
 ## What This Is
 
